@@ -81,6 +81,7 @@
 15. 生成的 apk 文件，解压后会有什么目录
 16. 讲讲 Gradle 语法、生命周期
 17. ListView 和 RecycleView 的比较
+    - [ViewHolder重用机制理解(解决图片错乱和闪烁问题)](http://blog.csdn.net/xyq046463/article/details/51800095?locationNum=3)
 18. 网络框架用了哪些，讲讲使用的框架的原理
 19. 事件分发机制
 20. 注解的优缺点
