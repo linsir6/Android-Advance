@@ -52,6 +52,8 @@
 
 1. 布局优化的过程
     - [Android性能优化之布局优化](https://www.cnblogs.com/hoolay/p/6248514.html)
+    - [Android性能优化系列之布局优化](http://blog.csdn.net/u012124438/article/details/54564659)
+    - [ Android 性能优化之布局优化](http://blog.csdn.net/u014608640/article/details/52511329)
 2. 性能优化有哪方面
 3. 什么是MVP模式
 4. Activity启动过程
