@@ -82,6 +82,7 @@
 16. 讲讲 Gradle 语法、生命周期
 17. ListView 和 RecycleView 的比较
     - [ViewHolder重用机制理解(解决图片错乱和闪烁问题)](http://blog.csdn.net/xyq046463/article/details/51800095?locationNum=3)
+    - [ListView中convertView和viewHolder](https://www.cnblogs.com/yuhanghzsd/p/5595532.html)
 18. 网络框架用了哪些，讲讲使用的框架的原理
 19. 事件分发机制
 20. 注解的优缺点
@@ -96,4 +97,3 @@
 29. 如果加快 Gradle 的编译速度
 30. Android 事件分发机制了解不
 31. Android 绘制过程，onMeasure 的原理，解决了什么问题
-32. 说说下载的实现/断点上传，下载
