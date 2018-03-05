@@ -14,12 +14,12 @@
 ## 算法
 
 1. [判断单链表是否有环,并且找到相交点](/algorithm/IsHaveCircle.java)
-2. 逆转链表
+2. [逆转链表](/algorithm/ReverseNode.java)
 3. 反转一颗二叉树
 4. 单链表输出倒数第 k 个元素
 5. 100 万个数据找出 100 个最大的
 6. 快排，堆排，归并排序
-
+7. 判断一颗二叉树是完全二叉树
 
 
 ## JVM基础
@@ -30,7 +30,9 @@
 ## Java基础
 
 1. Java的final关键字的作用
+    - [浅析Java中的final关键字](http://www.importnew.com/18586.html)
 2. volatile 的作用，为什么会出现变量读取不一致的情况， synchronized 的区别
+    - [你真的了解volatile关键字吗？](http://www.importnew.com/24082.html)
 3. Java 中的 Error、 Exception 的区别
 4. ArrayList 如何删除重复的元素或者指定的元素
 5. Java 异常简介
@@ -48,7 +50,7 @@
 ## 常见的设计模式
 
 1. 单利模式
-2. 单例的双重检验的实现方式
+2. [单例的双重检验的实现方式](/algorithm/Singleton.java)
 3. 生产者消费者模式
 
 ## 计算机网络
@@ -76,6 +78,7 @@
 3. 什么是MVP模式
 4. Activity启动过程
 5. Activity生命周期什么时候调用
+    - [横竖屏切换对Activity生命周期的影响](http://blog.csdn.net/hzw19920329/article/details/51345971)
 6. 热更新技术简介
 7. 避免OOM的方法
 8. 自行设计一个图片加载库的思路
@@ -109,3 +112,6 @@
 29. 如果加快 Gradle 的编译速度
 30. Android 事件分发机制了解不
 31. Android 绘制过程，onMeasure 的原理，解决了什么问题
+32. LeakCanary核心原理
+    - [LeakCanary核心原理源码浅析](http://blog.csdn.net/cloud_huan/article/details/53081120)
+    - [LeakCanary 内存泄露监测原理研究](https://www.jianshu.com/p/5ee6b471970e)
