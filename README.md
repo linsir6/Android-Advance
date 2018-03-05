@@ -93,6 +93,7 @@
 18. 网络框架用了哪些，讲讲使用的框架的原理
 19. 事件分发机制
 20. 注解的优缺点
+    - [ 注解机制及其原理](http://blog.csdn.net/wangyangzhizhou/article/details/51698638)
 21. Activity和Fragment的生命周期，Home和Back键的生命周期
     - [Fragment 生命周期的详情](https://www.cnblogs.com/fajieyefu/p/6092465.html)
 22. 写Service的两种实现方式和生命周期
