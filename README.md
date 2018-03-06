@@ -39,12 +39,16 @@
 6. Java 中内部类为什么可以访问外部类
 7. Java 泛型
 8. equals 和 hashcode 的关系
+    - [ Java中==和equals的区别](http://blog.csdn.net/tiantiandjava/article/details/46988461)
 9. Hashmap 的源码和实现方式
+    - [从源码角度认识ArrayList，LinkedList与HashMap](https://www.jianshu.com/p/f174d49b391c)
 10. ArrayList 和 LinkedList 的区别？造成区别的原因是什么，为什么删查的复杂度不同
 11. Java 反射
 12. Java GC 了解过没有，如何判断一个对象是否可以被GC
 13. Java 线程同步了解不，同步方法在不同的实例之间是否仍然保持同步，有没有什么隐患
 14. Java 类加载机制了解不，双亲委派原理
+15. 四种引用类型的概念
+    - [四种引用类型的概念](https://www.cnblogs.com/theo/p/6443493.html)
 
 
 ## 常见的设计模式
@@ -75,6 +79,7 @@
     - [Android性能优化系列之布局优化](http://blog.csdn.net/u012124438/article/details/54564659)
     - [ Android 性能优化之布局优化](http://blog.csdn.net/u014608640/article/details/52511329)
 2. 性能优化有哪方面
+    - [Android性能优化的方面](https://www.jianshu.com/p/4d6c38e1f5b8)
 3. 什么是MVP模式
 4. Activity启动过程
 5. Activity生命周期什么时候调用
