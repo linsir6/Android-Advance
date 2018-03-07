@@ -50,6 +50,7 @@
 14. Java 类加载机制了解不，双亲委派原理
 15. 四种引用类型的概念
     - [四种引用类型的概念](https://www.cnblogs.com/theo/p/6443493.html)
+16. [Java内部类详解](https://www.cnblogs.com/dolphin0520/p/3811445.html)
 
 
 ## 常见的设计模式
@@ -121,3 +122,5 @@
 32. LeakCanary核心原理
     - [LeakCanary核心原理源码浅析](http://blog.csdn.net/cloud_huan/article/details/53081120)
     - [LeakCanary 内存泄露监测原理研究](https://www.jianshu.com/p/5ee6b471970e)
+33. 序列化Serializable与Parcelable原理与区别
+    - [序列化Serializable与Parcelable原理与区别](https://www.jianshu.com/p/2939e11b5ecb)
