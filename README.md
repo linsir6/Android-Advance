@@ -124,3 +124,7 @@
     - [LeakCanary 内存泄露监测原理研究](https://www.jianshu.com/p/5ee6b471970e)
 33. 序列化Serializable与Parcelable原理与区别
     - [序列化Serializable与Parcelable原理与区别](https://www.jianshu.com/p/2939e11b5ecb)
+34. - [Android SurfaceView入门学习](https://www.jianshu.com/p/15060fc9ef18)
+35. - [Android四大组件：BroadcastReceiver史上最全面解析](https://www.jianshu.com/p/ca3d87a4cdf3)
+36. - [Android APP启动时出现白屏或者黑屏怎么办？](https://www.jianshu.com/p/09b876b865ac)
+37. - [Android Starting Window(Preview Window)](http://www.cnblogs.com/angeldevil/p/3801209.html)
