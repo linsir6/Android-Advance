@@ -128,3 +128,6 @@
 35. - [Android四大组件：BroadcastReceiver史上最全面解析](https://www.jianshu.com/p/ca3d87a4cdf3)
 36. - [Android APP启动时出现白屏或者黑屏怎么办？](https://www.jianshu.com/p/09b876b865ac)
 37. - [Android Starting Window(Preview Window)](http://www.cnblogs.com/angeldevil/p/3801209.html)
+38. app运行中的crash崩溃异常日志收集
+    - [app运行中的crash崩溃异常日志收集](http://blog.csdn.net/qq_17387361/article/details/52688998)
+    - [ 安卓APP崩溃(crash)后重新启动，捕获全局异常重启APP](http://blog.csdn.net/jiaweihaoku/article/details/78053403)
