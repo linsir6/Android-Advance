@@ -138,3 +138,4 @@
 43. - [Java中重载和重写的区别](http://blog.csdn.net/zhu_apollo/article/details/1852542)
 44. - [接口和抽象类的联系和区别](http://blog.csdn.net/chengqiuming/article/details/70139323)
 45. - [抽象类和接口的区别](http://blog.csdn.net/Hhc0917/article/details/54755001)
+46. - [HTTP协议（二）header标头说明](https://www.cnblogs.com/lxg0/p/http.html)
