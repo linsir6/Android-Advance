@@ -133,3 +133,6 @@
     - [ 安卓APP崩溃(crash)后重新启动，捕获全局异常重启APP](http://blog.csdn.net/jiaweihaoku/article/details/78053403)
 39. - [Android 屏幕适配：最全面的解决方案](https://www.jianshu.com/p/ec5a1a30694b)
 40. - [Java NIO](http://blog.csdn.net/u011277123/article/details/71158564)
+41. - [理解java的三大特性之多态](https://www.cnblogs.com/chenssy/p/3372798.html)
+42. - [Java中多态的一些简单理解](https://www.cnblogs.com/wl0000-03/p/5964881.html)
+43. - [Java中重载和重写的区别](http://blog.csdn.net/zhu_apollo/article/details/1852542)
