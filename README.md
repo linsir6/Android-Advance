@@ -136,3 +136,5 @@
 41. - [理解java的三大特性之多态](https://www.cnblogs.com/chenssy/p/3372798.html)
 42. - [Java中多态的一些简单理解](https://www.cnblogs.com/wl0000-03/p/5964881.html)
 43. - [Java中重载和重写的区别](http://blog.csdn.net/zhu_apollo/article/details/1852542)
+44. - [接口和抽象类的联系和区别](http://blog.csdn.net/chengqiuming/article/details/70139323)
+45. - [抽象类和接口的区别](http://blog.csdn.net/Hhc0917/article/details/54755001)
