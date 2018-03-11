@@ -157,3 +157,4 @@
 59. - [获取Activity栈，判断当前Activity位置](http://blog.csdn.net/ffengz/article/details/74937311)
 60. - [2种判断（获取）栈顶activity的方法](http://blog.csdn.net/u014620028/article/details/56835374)
 61. - [Android查看activity所在任务栈](http://blog.csdn.net/bin622/article/details/76861009)
+62. - [你必须弄懂的Intent Filter匹配规则](http://blog.csdn.net/mynameishuangshuai/article/details/51673273)
