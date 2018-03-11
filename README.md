@@ -158,3 +158,4 @@
 60. - [2种判断（获取）栈顶activity的方法](http://blog.csdn.net/u014620028/article/details/56835374)
 61. - [Android查看activity所在任务栈](http://blog.csdn.net/bin622/article/details/76861009)
 62. - [你必须弄懂的Intent Filter匹配规则](http://blog.csdn.net/mynameishuangshuai/article/details/51673273)
+63. - [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](https://www.zhihu.com/question/34652589/answer/59578531)
