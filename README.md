@@ -139,3 +139,4 @@
 44. - [接口和抽象类的联系和区别](http://blog.csdn.net/chengqiuming/article/details/70139323)
 45. - [抽象类和接口的区别](http://blog.csdn.net/Hhc0917/article/details/54755001)
 46. - [HTTP协议（二）header标头说明](https://www.cnblogs.com/lxg0/p/http.html)
+47. - [泛型通配符extends与super的区别](https://www.cnblogs.com/yepei/p/6591289.html)
