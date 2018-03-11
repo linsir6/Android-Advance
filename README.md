@@ -145,3 +145,4 @@
 50. - [深入浅出Java注解](https://zhuanlan.zhihu.com/p/21410338?refer=zmywly8866)
 51. - [什么是依赖注入](http://blog.csdn.net/taijianyu/article/details/2338311/)
 52. - [为什么String要设计成不可变的](http://blog.csdn.net/renfufei/article/details/16808775)
+53. - [Java中的深拷贝和浅拷贝](http://blog.csdn.net/chjttony/article/details/7477346)
