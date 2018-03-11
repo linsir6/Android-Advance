@@ -58,6 +58,9 @@
 1. 单利模式
 2. [单例的双重检验的实现方式](/algorithm/Singleton.java)
 3. 生产者消费者模式
+4. 建造者模式
+    - [建造者模式](http://blog.csdn.net/carson_ho/article/details/54910597)
+    - [建造者模式](http://www.runoob.com/design-pattern/builder-pattern.html)
 
 ## 计算机网络
 
