@@ -143,3 +143,4 @@
 48. - [Java 中如何序列化一个对象](https://www.cnblogs.com/ScarecrowAnBird/p/7800785.html)
 49. - [Java基础之—反射](http://blog.csdn.net/sinat_38259539/article/details/71799078)
 50. - [深入浅出Java注解](https://zhuanlan.zhihu.com/p/21410338?refer=zmywly8866)
+51. - [什么是依赖注入](http://blog.csdn.net/taijianyu/article/details/2338311/)
