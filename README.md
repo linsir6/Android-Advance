@@ -152,3 +152,4 @@
 54. - [实现线程同步的几种方式](http://blog.csdn.net/small_lee/article/details/51453019)
 55. - [HttpClient、HttpURLConnection、OKHttp和Volley优缺点和性能对比,如何选择？](http://blog.csdn.net/langtop/article/details/77972855)
 56. - [Android 如何判断当前线程是否是主线程](http://blog.csdn.net/clevergump/article/details/50995612)
+57. - [ Android Context完全解析，你所不知道的Context的各种细节](http://blog.csdn.net/guolin_blog/article/details/47028975)
