@@ -140,3 +140,6 @@
 45. - [抽象类和接口的区别](http://blog.csdn.net/Hhc0917/article/details/54755001)
 46. - [HTTP协议（二）header标头说明](https://www.cnblogs.com/lxg0/p/http.html)
 47. - [泛型通配符extends与super的区别](https://www.cnblogs.com/yepei/p/6591289.html)
+48. - [Java 中如何序列化一个对象](https://www.cnblogs.com/ScarecrowAnBird/p/7800785.html)
+49. - [Java基础之—反射](http://blog.csdn.net/sinat_38259539/article/details/71799078)
+50. - [深入浅出Java注解](https://zhuanlan.zhihu.com/p/21410338?refer=zmywly8866)
