@@ -19,6 +19,9 @@
 4. 单链表输出倒数第k个元素
 5. [100万个数据找出100个最大的](/algorithm/FindTopK.java)
 6. 快排，堆排，归并排序
+    - [QuickSort](/algorithm/QuickSort.java)
+    - [MergeSort](/algorithm/MergeSort.java)
+    - [HeapSort](/algorithm/HeapSort.java)
 7. 判断一颗二叉树是完全二叉树
 8. [分析一下常见的排序算法的稳定性](https://www.cnblogs.com/tigerson/p/7156648.html)
 
