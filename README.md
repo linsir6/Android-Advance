@@ -55,6 +55,9 @@
     - [四种引用类型的概念](https://www.cnblogs.com/theo/p/6443493.html)
 16. [Java内部类详解](https://www.cnblogs.com/dolphin0520/p/3811445.html)
 17. ["=="、equals和hashCode有什么区别](http://blog.csdn.net/dove_knowledge/article/details/71027170)
+18. [Java 8 种数据类型 字节大小，int 4个字节，boolean几个字节](http://blog.csdn.net/never_cxb/article/details/47204485)
+19. [java面试题之int和Integer的区别
+](https://www.cnblogs.com/guodongdidi/p/6953217.html)
 
 
 ## 常见的设计模式
