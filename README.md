@@ -59,6 +59,7 @@
 19. [java面试题之int和Integer的区别
 ](https://www.cnblogs.com/guodongdidi/p/6953217.html)
 20. [final、finally、finalize修饰符的区别](http://blog.csdn.net/javagoingon/article/details/27965381)
+21. [finalize()方法](http://blog.csdn.net/u013366812/article/details/52046678)
 
 
 ## 常见的设计模式
