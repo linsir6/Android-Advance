@@ -58,6 +58,7 @@
 18. [Java 8 种数据类型 字节大小，int 4个字节，boolean几个字节](http://blog.csdn.net/never_cxb/article/details/47204485)
 19. [java面试题之int和Integer的区别
 ](https://www.cnblogs.com/guodongdidi/p/6953217.html)
+20. [final、finally、finalize修饰符的区别](http://blog.csdn.net/javagoingon/article/details/27965381)
 
 
 ## 常见的设计模式
