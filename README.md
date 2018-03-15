@@ -54,6 +54,7 @@
 15. 四种引用类型的概念
     - [四种引用类型的概念](https://www.cnblogs.com/theo/p/6443493.html)
 16. [Java内部类详解](https://www.cnblogs.com/dolphin0520/p/3811445.html)
+17. ["=="、equals和hashCode有什么区别](http://blog.csdn.net/dove_knowledge/article/details/71027170)
 
 
 ## 常见的设计模式
