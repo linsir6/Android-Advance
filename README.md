@@ -61,6 +61,8 @@
 20. [final、finally、finalize修饰符的区别](http://blog.csdn.net/javagoingon/article/details/27965381)
 21. [finalize()方法](http://blog.csdn.net/u013366812/article/details/52046678)
 22. [常见编码方式](http://kxjhlele.iteye.com/blog/333211)
+23. [常见数据结构与算法整理总结（上）](https://www.jianshu.com/p/230e6fde9c75)
+24. [常见数据结构与算法整理总结（下）](https://www.jianshu.com/p/42f81846c0fb)
 
 
 ## 常见的设计模式
