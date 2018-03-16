@@ -60,6 +60,7 @@
 ](https://www.cnblogs.com/guodongdidi/p/6953217.html)
 20. [final、finally、finalize修饰符的区别](http://blog.csdn.net/javagoingon/article/details/27965381)
 21. [finalize()方法](http://blog.csdn.net/u013366812/article/details/52046678)
+22. [常见编码方式](http://kxjhlele.iteye.com/blog/333211)
 
 
 ## 常见的设计模式
