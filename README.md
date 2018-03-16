@@ -172,3 +172,4 @@
 61. - [Android查看activity所在任务栈](http://blog.csdn.net/bin622/article/details/76861009)
 62. - [你必须弄懂的Intent Filter匹配规则](http://blog.csdn.net/mynameishuangshuai/article/details/51673273)
 63. - [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](https://www.zhihu.com/question/34652589/answer/59578531)
+64. - [两个Fragment之间如何传递数据](https://www.cnblogs.com/graphics/p/5151547.html)
