@@ -24,6 +24,16 @@
     - [HeapSort](/algorithm/HeapSort.java)
 7. 判断一颗二叉树是完全二叉树
 8. [分析一下常见的排序算法的稳定性](https://www.cnblogs.com/tigerson/p/7156648.html)
+9. [二叉树给出根节点和目标节点，找出从根节点到目标节点的路径]()
+10. [一个文件中有100万个整数，由空格分开，在程序中判断用户输入的整数是否在此文件中。说出最优的方法]()
+11. [N*N的方格纸,里面有多少个正方形]()
+12. [时针走一圈，时针分针重合几次]()
+13. [求1000以内的水仙花数以及40亿以内的水仙花数]()
+14. [两个不重复的数组集合中，这两个集合都是海量数据，内存中放不下，怎么求共同的元素？]()
+15. [子串包含问题(KMP 算法)写代码实现]()
+
+
+
 
 
 ## JVM基础
@@ -173,3 +183,19 @@
 62. - [你必须弄懂的Intent Filter匹配规则](http://blog.csdn.net/mynameishuangshuai/article/details/51673273)
 63. - [Android中为什么主线程不会因为Looper.loop()里的死循环卡死？](https://www.zhihu.com/question/34652589/answer/59578531)
 64. - [两个Fragment之间如何传递数据](https://www.cnblogs.com/graphics/p/5151547.html)
+65. - [本地广播和全局广播有什么差别]()
+66. - [AlertDialog,popupWindow,Activity区别]()
+67. - [自定义View如何考虑机型适配]()
+68. - [SpareArray原理]()
+69. - [SP是进程同步的吗?有什么方法做到同步？
+70. - [View刷新机制]()
+71. - [View绘制流程]()
+72. - [AsyncTask原理及不足]()
+73. - [如果在onStop的时候做了网络请求，onResume的时候怎么恢复？]()
+74. - [下拉状态栏是不是影响activity的生命周期]()
+75. - [ViewPager使用细节，如何设置成每次只初始化当前的Fragment，其他的不初始化？]()
+76. - [微信主页面的实现方式]()
+77. - [WebSocket与socket的区别]()
+78. - [视频加密传输]()
+79. - [App 是如何沙箱化，为什么要这么做？]()
+80. - [权限管理系统（底层的权限是如何进行 grant 的）]()
