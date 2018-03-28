@@ -74,6 +74,7 @@
 23. [常见数据结构与算法整理总结（上）](https://www.jianshu.com/p/230e6fde9c75)
 24. [常见数据结构与算法整理总结（下）](https://www.jianshu.com/p/42f81846c0fb)
 25. [Android List，Set，Map集合安全 集合区别 并发集合类性能分析](http://blog.csdn.net/whb20081815/article/details/70291412)
+26. [Java中Synchronized的用法](https://blog.csdn.net/luoweifu/article/details/46613015)
 
 
 ## 常见的设计模式
