@@ -13,7 +13,7 @@ public class ListNode {
 
     public void print() {
         ListNode h1 = this;
-        while (h1.next != null) {
+        while (h1 != null) {
             System.out.print(h1.val + "\t");
             h1 = h1.next;
         }
