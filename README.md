@@ -60,6 +60,7 @@
 5. Java 异常简介
 6. Java 中内部类为什么可以访问外部类
 7. Java 泛型
+    - [Java泛型详解](http://www.importnew.com/24029.html)
 8. equals 和 hashcode 的关系
     - [ Java中==和equals的区别](http://blog.csdn.net/tiantiandjava/article/details/46988461)
 9. Hashmap 的源码和实现方式
