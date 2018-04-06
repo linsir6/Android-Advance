@@ -6,13 +6,8 @@ import java.util.Scanner;
 
 public class Test {
     public static void main(String[] args) {
-        //getSubArrays(new int[]{10, 20, 30, 40, 50}, 100);
-        Scanner in = new Scanner(System.in);
-        int n = in.nextInt();
-        int m = in.nextInt();
-        for (int i = 0; i < n; i++) {
-            System.out.println(in.nextInt());
-        }
+        System.out.println(Math.pow(2,32)/2-1);
+        System.out.println(Integer.MAX_VALUE);
     }
 
 
