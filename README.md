@@ -66,7 +66,6 @@
 9. Hashmap 的源码和实现方式
     - [从源码角度认识ArrayList，LinkedList与HashMap](https://www.jianshu.com/p/f174d49b391c)
 10. ArrayList 和 LinkedList 的区别？造成区别的原因是什么，为什么删查的复杂度不同
-11. Java 反射
 12. Java GC 了解过没有，如何判断一个对象是否可以被GC
 13. Java 线程同步了解不，同步方法在不同的实例之间是否仍然保持同步，有没有什么隐患
 14. Java 类加载机制了解不，双亲委派原理
