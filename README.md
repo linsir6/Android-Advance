@@ -42,10 +42,11 @@
     - [Java GC系列（1）：Java垃圾回收简介](http://www.importnew.com/13504.html)
     - [Java GC系列（2）：Java垃圾回收是如何工作的？](http://www.importnew.com/13493.html)
     - [Java GC系列（3）：垃圾回收器种类](http://www.importnew.com/13827.html)
-    - [Java GC系列（4）：垃圾回收监视和分析](Java GC系列（4）：垃圾回收监视和分析)
+    - [Java GC系列（4）：垃圾回收监视和分析](http://www.importnew.com/13838.html)
 
-    
+
 2. 操作系统如何管理内存的
+
 
 ## Java基础
 
@@ -81,7 +82,7 @@
 24. [常见数据结构与算法整理总结（下）](https://www.jianshu.com/p/42f81846c0fb)
 25. [Android List，Set，Map集合安全 集合区别 并发集合类性能分析](http://blog.csdn.net/whb20081815/article/details/70291412)
 26. [Java中Synchronized的用法](https://blog.csdn.net/luoweifu/article/details/46613015)
-
+27. [Java内部类详解](http://www.cnblogs.com/dolphin0520/p/3811445.html)
 
 ## 常见的设计模式
 
