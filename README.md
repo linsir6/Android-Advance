@@ -55,6 +55,7 @@
 2. volatile 的作用，为什么会出现变量读取不一致的情况， synchronized 的区别
     - [你真的了解volatile关键字吗？](http://www.importnew.com/24082.html)
 3. Java 中的 Error、 Exception 的区别
+    - [谈一谈Java中的Error和Exception](https://blog.csdn.net/goodlixueyong/article/details/47122487)
 4. ArrayList 如何删除重复的元素或者指定的元素
 5. Java 异常简介
 6. Java 中内部类为什么可以访问外部类
