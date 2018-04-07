@@ -97,6 +97,7 @@
 ## 计算机网络
 
 1. Tcp 三次握手和四次挥手
+    - [TCP的三次握手与四次挥手](https://blog.csdn.net/qzcsu/article/details/72861891)
 2. 浏览器输入地址到返回结果发生了什么
 3. Tcp 是如何保证可靠性传输的
 4. Tcp/IP 协议几层
