@@ -214,7 +214,8 @@
 77. - [WebSocket与socket的区别]()
 78. - [视频加密传输]()
 79. - [App 是如何沙箱化，为什么要这么做？]()
-80. - [权限管理系统（底层的权限是如何进行 grant 的）]()
+80. - [权限管理系统（底层的权限是如何进行 grant 的）
+81. - [Android中SurfaceView使用详解](https://blog.csdn.net/android_cmos/article/details/68955134)
 
 
 ## 面经
