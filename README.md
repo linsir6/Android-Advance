@@ -218,6 +218,7 @@
 81. - [Android中SurfaceView使用详解](https://blog.csdn.net/android_cmos/article/details/68955134)
 82. - [Android 操作SQLite基本用法
 ](https://www.cnblogs.com/foxy/p/7725010.html)
+83. - [从源码看invalidate和requestLayout的区别](https://blog.csdn.net/litefish/article/details/52859300)
 
 
 
