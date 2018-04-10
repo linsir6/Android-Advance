@@ -159,6 +159,7 @@
 27. 安卓内存泄露检测以及解决方案
 28. 讲讲线程池
 29. 如果加快 Gradle 的编译速度
+    - [加快gradle的编译速度总结-亲身经历](https://www.jianshu.com/p/200d55b4d40a)
 30. Android 事件分发机制了解不
 31. Android 绘制过程，onMeasure 的原理，解决了什么问题
 32. LeakCanary核心原理
