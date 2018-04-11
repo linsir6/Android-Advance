@@ -221,6 +221,7 @@
 ](https://www.cnblogs.com/foxy/p/7725010.html)
 83. - [从源码看invalidate和requestLayout的区别](https://blog.csdn.net/litefish/article/details/52859300)
 84. - [Android高效加载大图、多图解决方案，有效避免程序OOM](https://blog.csdn.net/guolin_blog/article/details/9316683)
+85. - [深入探究Glide的缓存机制](https://blog.csdn.net/guolin_blog/article/details/54895665)
 
 
 
