@@ -242,6 +242,8 @@ String str = new String("123") 创建了几个对象，都存在哪
 83. - [从源码看invalidate和requestLayout的区别](https://blog.csdn.net/litefish/article/details/52859300)
 84. - [Android高效加载大图、多图解决方案，有效避免程序OOM](https://blog.csdn.net/guolin_blog/article/details/9316683)
 85. - [深入探究Glide的缓存机制](https://blog.csdn.net/guolin_blog/article/details/54895665)
+86. - [浅谈RecyclerView性能问题 滑动卡顿 界面闪动](https://blog.csdn.net/seven25/article/details/78094255?utm_source=debugrun&utm_medium=referral)
+87. - [RecyclerView 卡顿优化（二）](https://blog.csdn.net/likuan0214/article/details/51911873)
 
 
 
