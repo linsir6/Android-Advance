@@ -138,6 +138,16 @@ String str = new String("123") 创建了几个对象，都存在哪
 
 ## Android相关
 
+### 事件传递相关
+
+- [从另一个思路来学习安卓事件分发机制](https://mp.weixin.qq.com/s/djFXsrocOfpn9eSlvRNp2w)
+- [深入了解View的事件分发过程](https://juejin.im/post/58c8257661ff4b005dabab9d)
+
+### 事件总线处理
+
+- [自定义消息订阅框架NotificationBus](http://www.wanandroid.com/blog/show/2422)
+
+
 1. 布局优化的过程
     - [Android性能优化之布局优化](https://www.cnblogs.com/hoolay/p/6248514.html)
     - [Android性能优化系列之布局优化](http://blog.csdn.net/u012124438/article/details/54564659)

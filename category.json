@@ -1,0 +1,30 @@
+{
+	"message": "success",
+	"data": {
+		"data": [{
+			"category": "community",
+			"name": "\u8f66\u53cb\u5708",
+			"need_refresh_head": false,
+			"icon_url": "",
+			"default_add": 1,
+			"web_url": "",
+			"flags": 0,
+			"tip_new": 0,
+			"type": 4,
+			"sub_category_list": [{
+				"category": "motor_car_cmg",
+				"name": "\u793e\u533a",
+				"need_refresh_head": true,
+				"icon_url": "",
+				"default_add": 1,
+				"new_feed": true,
+				"feed_type": 1,
+				"web_url": "",
+				"flags": 0,
+				"tip_new": 0,
+				"type": 4
+			}]
+		}],
+		"first_switch_category_name": "community"
+	}
+}
