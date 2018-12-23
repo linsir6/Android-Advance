@@ -1,4 +1,4 @@
-public class IsHaveCircle {
+public class PrintLastK {
 
     static class Node {
         Node next;
@@ -9,22 +9,20 @@ public class IsHaveCircle {
         }
     }
 
-    public static boolean isHaveCircleAndMeetWhere(Node head) {
-        if (head == null || head.next == null) {
-            return false;
+    private static int findLastK(Node node, int k) {
+        if (node == null) {
+            return -1;
         }
-        Node a = head;
-        Node b = head;
-
-        while (b.next.next != null) {
-            a = a.next;
-            b = b.next.next;
-            if (a == b) {
-                return true;
+        for (int i = 0; i < k; i++) {
+            if (node.next == null) {
+                return -1;
+            } else {
+                node = node.next;
             }
         }
-        return false;
+        return node.value;
     }
+
 
     public static void main(String[] args) {
         Node n1 = new Node(1);
@@ -39,8 +37,8 @@ public class IsHaveCircle {
         n3.next = n4;
         n4.next = n5;
         n5.next = n6;
-        n6.next = n4;
-        System.out.println(isHaveCircleAndMeetWhere(n1));
+
+        System.out.println(findLastK(n1, 3));
     }
 
 

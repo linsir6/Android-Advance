@@ -1,5 +1,4 @@
-package attention;
-
+import java.util.ArrayList;
 import java.util.Arrays;
 
 public class HeapSort {
@@ -9,7 +8,6 @@ public class HeapSort {
         int[] arr = {9, 4, 5, 1, 3, 2, 7, 8, 0};
         sort(arr);
         System.out.println(Arrays.toString(arr));
-
     }
 
     public static void sort(int[] arr) {
@@ -23,7 +21,6 @@ public class HeapSort {
     }
 
     public static void adjustHeap(int[] arr, int i, int length) {
-
         int temp = arr[i];
         for (int k = i * 2 + 1; k + 1 < length; k = k * 2 + 1) {
             if (k + 1 < length && arr[k] < arr[k + 1]) {
@@ -36,8 +33,7 @@ public class HeapSort {
                 break;
             }
         }
-
-
+        arr[i] = temp;
     }
 
     public static void swap(int[] arr, int a, int b) {

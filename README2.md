@@ -7,22 +7,23 @@
 ### 排序
 
 1. [快排](/algorithm/QuickSort.java)
-1. [堆排]()
+1. [堆排](/algorithm/HeapSort.java)
 1. [归并排序](/algorithm/MergeSort.java)
-1. [M个元素中找出前N大的元素]()
+1. [M个元素中找出前N大的元素](/algorithm/FindTopK.java)
 
 ### 链表
 
-1. [判断单链表是否有环]()
-1. [判断单链表是否有环并且找到有环的那个节点]()
-1. [反转一个单链表]()
-1. [单链表输出倒数第k个元素]()
+1. [判断单链表是否有环](/algorithm/IsHaveCircle.java)
+1. [判断单链表是否有环并且找到有环的那个节点](/algorithm/IsHaveCircle/IsHaveCircleAndMeetWhere.java)
+1. [反转一个单链表](/algorithm/ReverseNode.java)
+1. [单链表输出倒数第k个元素](/algorithm/PrintLastK.java)
 
 ### 二叉树
 
 1. [二叉树给出根节点和目标节点，找出从根节点到目标节点的路径]()
 1. [如何判断一颗二叉树是完全二叉树]()
 1. [二叉树的三种遍历方式递归非递归]()
+1. [二叉树层次遍历](/algorithm/BinaryTreeLevelOrder.java)
 
 
 ## Java
@@ -62,7 +63,7 @@
 1. [Context类相关内容]()
 1. [MVC,MVP,MVVM异同]()
 1. [LifeCycle的应用]()
-1. [RecyclerView的原理]
+1. [RecyclerView的缓存原理]()
 
 
 ### 开源框架
