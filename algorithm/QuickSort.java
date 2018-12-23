@@ -1,45 +1,33 @@
-package attention;
+public class QuickSort {
+    public static void quickSort(int[] arr, int begin, int end) {
+        int tBegin = begin;
+        int tEnd = end;
+        int mid = arr[tBegin];
 
-import java.util.Arrays;
-
-public class QuickSort2 {
-
-
-    public static void quickSort(int[] a, int begin, int end) {
-    
-        int tbegin = begin;
-        int tend = end;
-        int mid = a[begin];
-
-        while (tbegin < tend) {
-            while (tbegin < tend && a[tend] >= mid) {
-                tend--;
+        while (tBegin < tEnd) {
+            while (tBegin < tEnd && arr[tEnd] >= mid) {
+                tEnd--;
             }
-            a[tbegin] = a[tend];
-
-            while (tbegin < tend && a[tbegin] <= mid) {
-                tbegin++;
+            arr[tBegin] = arr[tEnd];
+            while (tBegin < tEnd && arr[tBegin] <= mid) {
+                tBegin++;
             }
-            a[tend] = a[tbegin];
+            arr[tEnd] = arr[tBegin];
         }
-
-        a[tbegin] = mid;
-
-        if (begin < tend) {
-            quickSort(a, begin, tend - 1);
+        arr[tBegin] = mid;
+        if (begin < tEnd) {
+            quickSort(arr, begin, tEnd - 1);
         }
-        if (tend < end) {
-            quickSort(a, tend + 1, end);
+        if (tEnd < end) {
+            quickSort(arr, tEnd + 1, end);
         }
-
-
     }
 
     public static void main(String[] args) {
-        int[] a = new int[]{2, 1, 6, 7, 8, 5, 3, 5};
-        quickSort(a, 0, a.length - 1);
-        System.out.println(Arrays.toString(a));
+        int[] arr = {8, 5, 7, 6, 2, 1, 3};
+        quickSort(arr, 0, arr.length - 1);
+        for (int i = 0; i < arr.length; i++) {
+            System.out.println(arr[i] + "  ");
+        }
     }
-
-
 }
