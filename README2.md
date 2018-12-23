@@ -6,9 +6,9 @@
 
 ### 排序
 
-1. [快排]()
+1. [快排](/algorithm/QuickSort.java)
 1. [堆排]()
-1. [归并排序]()
+1. [归并排序](/algorithm/MergeSort.java)
 1. [M个元素中找出前N大的元素]()
 
 ### 链表
