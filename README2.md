@@ -20,9 +20,9 @@
 
 ### 二叉树
 
-1. [二叉树给出根节点和目标节点，找出从根节点到目标节点的路径]()
-1. [如何判断一颗二叉树是完全二叉树]()
-1. [二叉树的三种遍历方式递归非递归]()
+1. [二叉树给出根节点和目标节点，找出从根节点到目标节点的路径](/algorithm/BinaryTreePath.java)
+1. [如何判断一颗二叉树是完全二叉树](/algorithm/BinaryTreeCheckCompletion.java)
+1. [二叉树的三种遍历方式递归非递归](/algorithm/OrderBinaryTree.java)
 1. [二叉树层次遍历](/algorithm/BinaryTreeLevelOrder.java)
 
 
