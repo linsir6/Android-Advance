@@ -14,7 +14,7 @@
 ### 链表
 
 1. [判断单链表是否有环](/algorithm/IsHaveCircle.java)
-1. [判断单链表是否有环并且找到有环的那个节点](/algorithm/IsHaveCircle/IsHaveCircleAndMeetWhere.java)
+1. [判断单链表是否有环并且找到有环的那个节点](/algorithm/IsHaveCircleAndMeetWhere.java)
 1. [反转一个单链表](/algorithm/ReverseNode.java)
 1. [单链表输出倒数第k个元素](/algorithm/PrintLastK.java)
 
