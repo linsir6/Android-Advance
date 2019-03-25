@@ -64,6 +64,7 @@
 1. MVC,MVP,MVVM异同
 1. LifeCycle的应用
 1. RecyclerView的缓存原理
+1. [妙用ConstraintLayout的Circular positioning](https://www.jianshu.com/p/7f111f0bdbd0)
 
 ### Android事件传递
 
