@@ -86,7 +86,16 @@
 
 
 
+## JNI相关
 
+### 环境搭建
+
+- [NDK开发入门终极教程](https://juejin.im/post/5c3b01016fb9a049f81984bb) 这篇文章非常清晰的介绍了应该如何搭建项目，文末还配有一个demo工程，大家可以跑起来试一下
+
+
+
+### JNI基础入门
+- [手把手教你如何在Android下进行JNI开发（入门）](https://juejin.im/post/5c05d0776fb9a049ca371cb6)这篇文章讲解了native和java如何互相调用，数据类型等知识点，感觉很详细
 
 
 
