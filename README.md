@@ -71,7 +71,9 @@
 1. [【透镜系列】看穿 > 触摸事件分发 >](https://juejin.im/post/5c3c8538f265da6142741d63)
 1. [【透镜系列】看穿 > NestedScrolling 机制 >](https://juejin.im/post/5c3c8d2ae51d4552475fcef7)
 
+### 好用的ViewGroup
 
+1. [Android 弹性布局 FlexboxLayout了解一下](https://juejin.im/post/5b1ceaf8f265da6e3423bc6b)
 
 ### 开源框架
 
