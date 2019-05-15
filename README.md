@@ -75,6 +75,10 @@
 
 1. [Android 弹性布局 FlexboxLayout了解一下](https://juejin.im/post/5b1ceaf8f265da6e3423bc6b)
 
+### Android源码解析
+
+1. [RecyclerView缓存机制（咋复用？）](https://juejin.im/post/5c696ba9e51d457f136d24ff)
+
 ### 开源框架
 
 1. RxJava原理
@@ -88,8 +92,8 @@
 
 ## Kotlin相关
 
-- [区别Kotlin中的object和companion object关键字](http://liuqingwen.me/blog/2017/06/20/object-vs-companion-object-in-kotlin/)
-- [Kotlin中的with函数](https://www.jianshu.com/p/272372acc00c)
+1. [区别Kotlin中的object和companion object关键字](http://liuqingwen.me/blog/2017/06/20/object-vs-companion-object-in-kotlin/)
+1. [Kotlin中的with函数](https://www.jianshu.com/p/272372acc00c)
 
 
 
@@ -97,12 +101,12 @@
 
 ### 环境搭建
 
-- [NDK开发入门终极教程](https://juejin.im/post/5c3b01016fb9a049f81984bb)
+1. [NDK开发入门终极教程](https://juejin.im/post/5c3b01016fb9a049f81984bb)
 
 
 
 ### JNI基础入门
-- [手把手教你如何在Android下进行JNI开发（入门）](https://juejin.im/post/5c05d0776fb9a049ca371cb6)
+1. [手把手教你如何在Android下进行JNI开发（入门）](https://juejin.im/post/5c05d0776fb9a049ca371cb6)
 
 
 
