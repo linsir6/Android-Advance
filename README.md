@@ -75,6 +75,10 @@
 
 1. [Android 弹性布局 FlexboxLayout了解一下](https://juejin.im/post/5b1ceaf8f265da6e3423bc6b)
 
+### Handler相关
+
+1. [你知道android的MessageQueue.IdleHandler吗？](https://blog.csdn.net/tencent_bugly/article/details/78395717)
+
 ### Android源码解析
 
 1. [RecyclerView缓存机制（咋复用？）](https://juejin.im/post/5c696ba9e51d457f136d24ff)
