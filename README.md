@@ -94,6 +94,11 @@
 
 ### 插件化
 
+### Hook相关
+
+1. [Android Hook 神器——XPosed入门](https://juejin.im/entry/55e97c42ddb2dd0023d1b96f)
+
+
 ### Gradle相关
 
 1. [Android Studio3.0中dependencies依赖](https://blog.csdn.net/silenceoo/article/details/78735687)
