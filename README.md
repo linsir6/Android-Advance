@@ -98,6 +98,10 @@
 
 1. [Android Hook 神器——XPosed入门](https://juejin.im/entry/55e97c42ddb2dd0023d1b96f)
 
+### 性能分析相关
+
+1. [Android性能优化第（五）篇---Allaction Tracing追踪内存分配的轨迹](https://www.jianshu.com/p/d9e426c10581)
+
 
 ### Gradle相关
 
