@@ -90,6 +90,11 @@
 
 ### 插件化
 
+### Gradle相关
+
+1. [Android Studio3.0中dependencies依赖](https://blog.csdn.net/silenceoo/article/details/78735687)
+
+
 ## Kotlin相关
 
 1. [区别Kotlin中的object和companion object关键字](http://liuqingwen.me/blog/2017/06/20/object-vs-companion-object-in-kotlin/)
