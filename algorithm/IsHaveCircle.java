@@ -9,9 +9,9 @@ public class IsHaveCircle {
         }
     }
 
-    public static boolean isHaveCircleAndMeetWhere(Node head) {
+    public static int isHaveCircleAndMeetWhere(Node head) {
         if (head == null || head.next == null) {
-            return false;
+            return -1;
         }
         Node a = head;
         Node b = head;
@@ -20,10 +20,17 @@ public class IsHaveCircle {
             a = a.next;
             b = b.next.next;
             if (a == b) {
-                return true;
+                Node p = head;
+                Node q = a;
+                while (p != q) {
+                    p = p.next;
+                    q = q.next;
+                }
+                return q.value;
             }
         }
-        return false;
+        return -1;
+
     }
 
     public static void main(String[] args) {
@@ -40,8 +47,8 @@ public class IsHaveCircle {
         n4.next = n5;
         n5.next = n6;
         n6.next = n4;
+
         System.out.println(isHaveCircleAndMeetWhere(n1));
     }
-
 
 }
