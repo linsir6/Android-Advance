@@ -1,5 +1,8 @@
 package nowcoder;
 
+/**
+ * JZ8 , https://www.nowcoder.com/practice/8c82a5b80378478f9484d87d1c5f12a4?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1
+ */
 public class JZ8 {
 
     public int JumpFloor(int target) {
