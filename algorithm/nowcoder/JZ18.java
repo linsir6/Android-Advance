@@ -1,5 +1,8 @@
 package nowcoder;
 
+/**
+ * JZ18, https://www.nowcoder.com/practice/564f4c26aa584921bc75623e48ca3011?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1
+ */
 public class JZ18 {
 
     public class TreeNode {

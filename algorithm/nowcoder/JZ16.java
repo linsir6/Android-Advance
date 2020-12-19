@@ -1,5 +1,8 @@
 package nowcoder;
 
+/**
+ * JZ16, https://www.nowcoder.com/practice/d8b6b4358f774294a89de2a6ac4d9337?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1
+ */
 public class JZ16 {
 
     public class ListNode {
