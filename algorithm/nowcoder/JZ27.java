@@ -6,21 +6,21 @@ import java.util.Collections;
 public class JZ27 {
 
     public ArrayList<String> Permutation(String str) {
-        char[] charArray = str.toCharArray();
-        ArrayList<String> newStr = new ArrayList<String>();
-        build(newStr, 0, charArray);
-        Collections.sort(newStr);
-        return newStr;
+        char[] chars = str.toCharArray();
+        ArrayList<String> results = new ArrayList<>();
+        build(results, 0, chars);
+        Collections.sort(results);
+        return results;
     }
 
-    private void build(ArrayList<String> str, int i, char[] c) {
+    private void build(ArrayList<String> result, int i, char[] c) {
         if (i == c.length - 1) {
-            str.add(new String(c));
+            result.add(new String(c));
         }
         for (int j = i; j < c.length; j++) {
             if (i == j || c[j] != c[i]) {
                 swap(c, i, j);
-                build(str, i + 1, c);
+                build(result, i + 1, c);
                 swap(c, i, j);
             }
         }
