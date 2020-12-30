@@ -4,6 +4,9 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+/**
+ * JZ34, https://www.nowcoder.com/practice/1c82e8cf713b4bbeb2a5b31cf5b0417c?tpId=13&tags=&title=&diffculty=0&judgeStatus=0&rp=1
+ */
 public class JZ34 {
 
     public int FirstNotRepeatingChar(String str) {
@@ -32,6 +35,5 @@ public class JZ34 {
         JZ34 jz34 = new JZ34();
         System.out.println(jz34.FirstNotRepeatingChar("NXWtnzyoHoBhUJaPauJaAitLWNMlkKwDYbbigdMMaYfkVPhGZcrEwp"));
     }
-
 
 }
