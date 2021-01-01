@@ -20,16 +20,8 @@ public class JZ36 {
         ListNode h1 = pHead1;
         ListNode h2 = pHead2;
         while (h1 != h2) {
-            if (h1 != null) {
-                h1 = h1.next;
-            } else {
-                h1 = pHead2;
-            }
-            if (h2 != null) {
-                h2 = h2.next;
-            } else {
-                h2 = pHead1;
-            }
+            h1 = h1 != null ? h1.next : pHead2;
+            h2 = h2 != null ? h2.next : pHead1;
         }
         return h1;
     }
