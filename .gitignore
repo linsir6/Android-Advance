@@ -1,1 +1,3 @@
-algorithm/out
+algorithm/out/*
+algorithm/out/production
+algorithm/out/production/algorithm
