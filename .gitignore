@@ -2,3 +2,5 @@ algorithm/out/*
 algorithm/out/production
 algorithm/out/production/algorithm
 /out
+.DS_Store
+.idea
