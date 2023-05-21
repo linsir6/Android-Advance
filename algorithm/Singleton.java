@@ -2,7 +2,7 @@ package attention;
 
 class Singleton {
 
-    private volatile static Singleton instance = null;
+    private static Singleton instance = null;
 
     private Singleton() {
 
@@ -11,8 +11,9 @@ class Singleton {
     public static Singleton getInstance() {
         if (instance == null) {
             synchronized (Singleton.class) {
-                if (instance == null)
+                if (instance == null) {
                     instance = new Singleton();
+                }
             }
         }
         return instance;

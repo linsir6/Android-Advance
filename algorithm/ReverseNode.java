@@ -2,9 +2,7 @@ package attention;
 
 public class ReverseNode {
 
-
     static class Node {
-
         Node next;
         int value;
 
@@ -16,17 +14,18 @@ public class ReverseNode {
     }
 
     public static Node reverse(Node head) {
-
-        Node prev = null;
+        if (head == null) {
+            return null;
+        }
+        Node result = new Node(null, 0);
         Node cur = head;
         while (cur != null) {
-            Node next = cur.next;
-            cur.next = prev;
-            prev = cur;
-            cur = next;
+            Node temp = cur;
+            cur = cur.next;
+            temp.next = result.next;
+            result.next = temp;
         }
-        return prev;
-
+        return result.next;
     }
 
 
@@ -38,7 +37,6 @@ public class ReverseNode {
         Node node5 = new Node(node4, 5);
         print(node5);
         print(reverse(node5));
-
     }
 
     public static void print(Node head) {

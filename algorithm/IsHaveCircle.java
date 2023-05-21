@@ -1,3 +1,5 @@
+package attention;
+
 public class IsHaveCircle {
 
     static class Node {
@@ -15,22 +17,22 @@ public class IsHaveCircle {
         }
         Node a = head;
         Node b = head;
-
         while (b.next.next != null) {
             a = a.next;
             b = b.next.next;
+
             if (a == b) {
-                Node p = head;
-                Node q = a;
-                while (p != q) {
-                    p = p.next;
-                    q = q.next;
+                Node c = head;
+                while (c != a) {
+                    a = a.next;
+                    c = c.next;
                 }
-                return q.value;
+                return c.value;
             }
+            a = a.next;
+            b = b.next.next;
         }
         return -1;
-
     }
 
     public static void main(String[] args) {
