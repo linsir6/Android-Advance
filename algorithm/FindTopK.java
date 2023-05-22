@@ -10,7 +10,7 @@ public class FindTopK {
             return arr;
         }
         int[] heap = new int[k];
-        for (int i = 0; i != k; i++) {
+        for (int i = 0; i < k; i++) {
             heapInsert(heap, arr[i], i);
         }
         for (int i = k; i < arr.length; i++) {
@@ -65,8 +65,8 @@ public class FindTopK {
 
 
     public static void main(String[] args) {
-        int[] a = {1, 3, 6, 4, 7, 5};
-        System.out.println(Arrays.toString(getMinKNumsByHeap(a, 5)));
+        int[] a = {1, 3, 6, 4, 7, 5, 0};
+        System.out.println(Arrays.toString(getMinKNumsByHeap(a, 2)));
     }
 
 }
