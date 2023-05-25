@@ -1,3 +1,5 @@
+package attention;
+
 public class QuickSort {
     public static void quickSort(int[] arr, int begin, int end) {
         if (begin < end) {
