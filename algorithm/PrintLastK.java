@@ -1,3 +1,5 @@
+package attention;
+
 public class PrintLastK {
 
     static class Node {
@@ -13,14 +15,18 @@ public class PrintLastK {
         if (node == null) {
             return -1;
         }
+        Node fastPointer = node;
+        Node slowPointer = node;
+
         for (int i = 0; i < k; i++) {
-            if (node.next == null) {
-                return -1;
-            } else {
-                node = node.next;
-            }
+            fastPointer = fastPointer.next;
         }
-        return node.value;
+
+        while (fastPointer != null) {
+            fastPointer = fastPointer.next;
+            slowPointer = slowPointer.next;
+        }
+        return slowPointer.value;
     }
 
 
