@@ -1,6 +1,7 @@
 package attention;
 
 import java.util.ArrayList;
+import java.util.List;
 
 /**
  * 寻找二叉树根节点到数上任意节点的路径
@@ -17,21 +18,24 @@ public class BinaryTreePath {
         }
     }
 
-    public static boolean getPathFromRoot(TreeNode root, TreeNode node, ArrayList<Integer> pathArray) {
-        if (root == null || node == null) {
+    private static boolean getPathFromRoot(TreeNode root, TreeNode target, List<Integer> list) {
+        if (root == null || target == null) {
             return false;
         }
-        pathArray.add(root.val);
-        if (root.val == node.val) {
+        list.add(root.val);
+
+        if (root.val == target.val) {
             return true;
         }
-        if (getPathFromRoot(root.left, node, pathArray)) {
+
+        if (getPathFromRoot(root.left, target, list)){
             return true;
         }
-        if (getPathFromRoot(root.right, node, pathArray)) {
+
+        if (getPathFromRoot(root.right, target, list)){
             return true;
         }
-        pathArray.remove((Integer) root.val);
+        list.remove((Integer) root.val);
         return false;
     }
 
