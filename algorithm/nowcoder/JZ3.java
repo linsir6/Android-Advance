@@ -1,9 +1,9 @@
-package nowcoder;
+package attention.nowcoder;
 
 import java.util.ArrayList;
 
 /**
- * JZ3, https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&&tqId=11156&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking
+ * JZ3, <a href="https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&&tqId=11156&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking">...</a>
  */
 public class JZ3 {
 
