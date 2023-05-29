@@ -1,7 +1,9 @@
 package attention.l1071;
 
+/**
+ * <a href="https://leetcode.cn/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75">...</a>
+ */
 public class GreatestCommonDivisorOfStrings {
-
 
     public String gcdOfStrings(String str1, String str2) {
         if (!(str1 + str2).equals(str2 + str1)) {

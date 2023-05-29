@@ -1,7 +1,9 @@
 package attention.leetcode.l1768;
 
+/**
+ * <a href="https://leetcode.cn/problems/merge-strings-alternately/?envType=study-plan-v2&envId=leetcode-75">...</a>
+ */
 public class MergeStringsAlternately {
-
 
     public String mergeAlternately(String word1, String word2) {
         StringBuilder result = new StringBuilder();
