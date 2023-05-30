@@ -34,17 +34,35 @@ public class JZ68 {
 
     public TreeNode lowestCommonAncestor(TreeNode root, TreeNode p, TreeNode q) {
         dfs(root);
-        while (p != null){
+        while (p != null) {
             visited.add(p.val);
             p = parent.get(p.val);
         }
-        while(q != null){
-            if (visited.contains(q.val)){
+        while (q != null) {
+            if (visited.contains(q.val)) {
                 return q;
             }
             q = parent.get(q.val);
         }
         return null;
+    }
+
+    /**
+     * <a href="https://leetcode.cn/problems/er-cha-shu-de-zui-jin-gong-gong-zu-xian-lcof/solution/mian-shi-ti-68-ii-er-cha-shu-de-zui-jin-gong-gon-7/">...</a>
+     */
+    public TreeNode lowestCommonAncestorV2(TreeNode root, TreeNode p, TreeNode q) {
+        if (root == null || root == p || root == q) {
+            return root;
+        }
+        TreeNode left = lowestCommonAncestorV2(root.left, p, q);
+        TreeNode right = lowestCommonAncestorV2(root.right, p, q);
+        if (left == null) {
+            return right;
+        }
+        if (right == null) {
+            return left;
+        }
+        return root;
     }
 
 }
