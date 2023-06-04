@@ -1,4 +1,4 @@
-package attention.l437;
+package attention.leetcode.l437;
 
 import java.util.HashMap;
 import java.util.Map;

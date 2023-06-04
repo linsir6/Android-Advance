@@ -1,6 +1,4 @@
-package attention.l2095;
-
-import java.util.List;
+package attention.leetcode.l2095;
 
 public class DeleteTheMiddleNodeOfALinkedList {
 

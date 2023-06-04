@@ -1,4 +1,4 @@
-package attention.l1431;
+package attention.leetcode.l1431;
 
 import java.util.ArrayList;
 import java.util.List;

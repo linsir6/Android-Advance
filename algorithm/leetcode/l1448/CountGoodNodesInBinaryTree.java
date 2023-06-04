@@ -1,4 +1,4 @@
-package attention.l1448;
+package attention.leetcode.l1448;
 
 public class CountGoodNodesInBinaryTree {
 

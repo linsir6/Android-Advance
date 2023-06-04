@@ -1,4 +1,4 @@
-package attention.l1071;
+package attention.leetcode.l1071;
 
 /**
  * <a href="https://leetcode.cn/problems/greatest-common-divisor-of-strings/?envType=study-plan-v2&envId=leetcode-75">...</a>

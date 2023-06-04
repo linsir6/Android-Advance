@@ -1,4 +1,4 @@
-package attention.l1372;
+package attention.leetcode.l1372;
 
 public class LongestZigzagPathInABinaryTree {
 

@@ -1,4 +1,4 @@
-package attention.l872;
+package attention.leetcode.l872;
 
 import java.util.ArrayList;
 import java.util.List;

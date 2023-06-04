@@ -1,4 +1,4 @@
-package attention.l450;
+package attention.leetcode.l450;
 
 public class DeleteNodeInABST {
     public class TreeNode {

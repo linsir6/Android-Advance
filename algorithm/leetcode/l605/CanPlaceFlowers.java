@@ -1,4 +1,4 @@
-package attention.l605;
+package attention.leetcode.l605;
 
 /**
  * <a href="https://leetcode.cn/problems/can-place-flowers/">...</a>
