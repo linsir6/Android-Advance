@@ -1,4 +1,4 @@
-package attention.nowcoder;
+package algorithm.nowcoder;
 
 /**
  * JZ2, https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&&tqId=11155&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking

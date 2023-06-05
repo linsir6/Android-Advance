@@ -1,4 +1,4 @@
-package attention.leetcode.l104;
+package algorithm.leetcode.l104;
 
 public class MaximumDepthOfBinaryTree {
 

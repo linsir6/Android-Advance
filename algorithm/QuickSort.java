@@ -1,4 +1,4 @@
-package attention;
+package algorithm;
 
 public class QuickSort {
     public static void quickSort(int[] arr, int begin, int end) {

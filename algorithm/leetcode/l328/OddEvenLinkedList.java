@@ -1,6 +1,4 @@
-package attention.leetcode.l328;
-
-import java.util.List;
+package algorithm.leetcode.l328;
 
 public class OddEvenLinkedList {
 

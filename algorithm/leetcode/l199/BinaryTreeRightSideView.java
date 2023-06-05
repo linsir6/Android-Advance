@@ -1,4 +1,4 @@
-package attention.leetcode.l199;
+package algorithm.leetcode.l199;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -10,20 +10,10 @@ public class BinaryTreeRightSideView {
         TreeNode left;
         TreeNode right;
 
-        TreeNode() {
-        }
-
         TreeNode(int val) {
             this.val = val;
         }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
     }
-
 
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> res = new ArrayList<>();

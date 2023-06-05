@@ -1,4 +1,4 @@
-package attention;
+package algorithm;
 
 import java.util.concurrent.locks.ReentrantLock;
 

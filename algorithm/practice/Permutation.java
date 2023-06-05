@@ -1,4 +1,4 @@
-package attention.practice;
+package algorithm.practice;
 
 import java.util.ArrayList;
 

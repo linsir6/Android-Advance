@@ -1,4 +1,4 @@
-package attention.leetcode.l236;
+package algorithm.leetcode.l236;
 
 public class LowestCommonAncestorOfABinaryTree {
 

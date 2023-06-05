@@ -1,4 +1,4 @@
-package attention.leetcode.l151;
+package algorithm.leetcode.l151;
 
 public class ReverseWordsInAString {
 

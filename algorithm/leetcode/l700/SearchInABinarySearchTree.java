@@ -1,4 +1,4 @@
-package attention.leetcode.l700;
+package algorithm.leetcode.l700;
 
 public class SearchInABinarySearchTree {
 

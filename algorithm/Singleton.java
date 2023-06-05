@@ -1,4 +1,4 @@
-package attention;
+package algorithm;
 
 class Singleton {
 

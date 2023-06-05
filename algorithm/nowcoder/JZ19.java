@@ -1,4 +1,4 @@
-package attention.nowcoder;
+package algorithm.nowcoder;
 
 import java.util.ArrayList;
 import java.util.List;

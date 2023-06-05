@@ -1,4 +1,4 @@
-package attention;
+package algorithm;
 
 public class ReverseNode {
 

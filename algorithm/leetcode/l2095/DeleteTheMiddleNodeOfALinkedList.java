@@ -1,4 +1,4 @@
-package attention.leetcode.l2095;
+package algorithm.leetcode.l2095;
 
 public class DeleteTheMiddleNodeOfALinkedList {
 
