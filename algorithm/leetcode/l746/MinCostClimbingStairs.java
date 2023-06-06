@@ -1,5 +1,8 @@
 package algorithm.leetcode.l746;
 
+/**
+ * <a href="https://leetcode.cn/problems/min-cost-climbing-stairs/">...</a>
+ */
 public class MinCostClimbingStairs {
 
     public int minCostClimbingStairs(int[] cost) {
