@@ -1,5 +1,8 @@
 package algorithm.leetcode.l790;
 
+/**
+ * <a href="https://leetcode.cn/problems/domino-and-tromino-tiling/solution/gong-shui-san-xie-by-ac_oier-kuv4/">...</a>
+ */
 public class DominoAndTrominoTiling {
 
     int MOD = (int) (1e9 + 7);
