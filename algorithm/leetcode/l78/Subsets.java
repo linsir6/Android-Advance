@@ -10,7 +10,7 @@ public class Subsets {
 
     public List<List<Integer>> subsets(int[] nums) {
         List<List<Integer>> result = new ArrayList<>();
-        sub(nums, 0, result, new ArrayList<>());
+        sub2(nums, 0, result, new ArrayList<>());
         return result;
     }
 
@@ -26,4 +26,15 @@ public class Subsets {
     }
 
 
+    public void sub2(int[] nums, int i, List<List<Integer>> result, List<Integer> currentList) {
+        result.add(new ArrayList<>(currentList));
+        if (i == nums.length) {
+            return;
+        }
+        for (int j = i; j < nums.length; j++) {
+            currentList.add(nums[j]);
+            sub2(nums, j + 1, result, currentList);
+            currentList.remove((Integer) nums[j]);
+        }
+    }
 }
