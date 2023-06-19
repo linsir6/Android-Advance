@@ -22,18 +22,23 @@ public class OrderBinaryTree {
         }
     }
 
+    /**
+     *      1
+     *    2   3
+     *  4   5
+     */
     private static void preOrder1(TreeNode root) {
-        Stack<TreeNode> stack = new Stack<TreeNode>();
+        Stack<TreeNode> stack = new Stack<>();
         TreeNode p = root;
-        while (p != null || !stack.empty()) {
+        while (p != null || stack.size() > 0) {
             while (p != null) {
-                System.out.print(p.val + "  ");
+                System.out.println(p.val);
                 stack.push(p);
                 p = p.left;
             }
-            if (!stack.empty()) {
-                TreeNode temp = stack.pop();
-                p = temp.right;
+            TreeNode treeNode = stack.pop();
+            if (treeNode != null) {
+                p = treeNode.right;
             }
         }
     }
@@ -86,10 +91,10 @@ public class OrderBinaryTree {
                 System.out.println(temp.val);
                 pre = temp;
             } else {
-                if (cur.right != null){
+                if (cur.right != null) {
                     stack.push(cur.right);
                 }
-                if (cur.left != null){
+                if (cur.left != null) {
                     stack.push(cur.left);
                 }
             }
@@ -105,10 +110,10 @@ public class OrderBinaryTree {
 
         node1.left = node2;
         node1.right = node3;
-        node3.left = node4;
-        node3.right = node5;
+        node2.left = node4;
+        node2.right = node5;
 
-        postOrder1(node1);
+        preOrder1(node1);
     }
 
 }
