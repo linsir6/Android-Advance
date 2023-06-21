@@ -74,7 +74,11 @@ public class OrderBinaryTree {
             System.out.print(root.val + " ");
         }
     }
-
+    /**
+     *      1
+     *    2   3
+     *  4   5
+     */
     private static void postOrder1(TreeNode root) {
         if (root == null) {
             return;
