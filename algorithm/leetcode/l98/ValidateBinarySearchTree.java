@@ -9,7 +9,8 @@ public class ValidateBinarySearchTree {
     }
 
     public boolean isValidBST(TreeNode root) {
-        return isValidBSTPreOrder(root, Long.MIN_VALUE, Long.MAX_VALUE);
+//        return isValidBSTPreOrder(root, Long.MIN_VALUE, Long.MAX_VALUE);
+        return isValidBSTInOrder(root);
     }
 
     private boolean isValidBSTPreOrder(TreeNode root, long left, long right) {
@@ -20,5 +21,19 @@ public class ValidateBinarySearchTree {
         return x < right && x > left && isValidBSTPreOrder(root.left, left, x) && isValidBSTPreOrder(root.right, x, right);
     }
 
+    private long preVal = Long.MIN_VALUE;
+    private boolean isValidBSTInOrder(TreeNode root){
+        if (root == null){
+            return true;
+        }
+        if (!isValidBSTInOrder(root.left)){
+            return false;
+        }
+        if (root.val <= preVal){
+            return false;
+        }
+        preVal = root.val;
+        return isValidBSTInOrder(root.right);
+    }
 
 }
