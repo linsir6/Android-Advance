@@ -25,14 +25,14 @@ public class PalindromePartitioning {
 
     private void dfs(int i) {
         if (i == s.length()) {
-            ans.add(new ArrayList<>(path)); // 固定答案
+            ans.add(new ArrayList<>(path));
             return;
         }
-        for (int j = i; j < s.length(); j++) { // 枚举子串的结束位置
+        for (int j = i; j < s.length(); j++) {
             if (isPalindrome(i, j)) {
                 path.add(s.substring(i, j + 1));
                 dfs(j + 1);
-                path.remove(path.size() - 1); // 恢复现场
+                path.remove(path.size() - 1);
             }
         }
     }

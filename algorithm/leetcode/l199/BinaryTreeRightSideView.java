@@ -15,7 +15,7 @@ public class BinaryTreeRightSideView {
         }
     }
 
-    public List<Integer> rightSideView(TreeNode root) {
+    public List<Integer> rightSideViewV2(TreeNode root) {
         List<Integer> res = new ArrayList<>();
         if (root == null) {
             return res;
@@ -40,4 +40,24 @@ public class BinaryTreeRightSideView {
         }
         return res;
     }
+
+    public List<Integer> rightSideView(TreeNode root) {
+        rightSideViewInternal(root, 0);
+        return result;
+    }
+
+    private List<Integer> result = new ArrayList<>();
+
+    private void rightSideViewInternal(TreeNode root, int depth) {
+        if (root == null) {
+            return;
+        }
+        if (depth == result.size()) {
+            result.add(root.val);
+        }
+        rightSideViewInternal(root.right, depth + 1);
+        rightSideViewInternal(root.left, depth + 1);
+    }
+
+
 }
