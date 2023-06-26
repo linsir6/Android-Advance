@@ -7,6 +7,19 @@ import java.util.Arrays;
  */
 public class HouseRobber {
 
+    public int rob(int[] nums) {
+        int n = nums.length;
+        int f0 = 0;
+        int f1 = 0;
+        for (int i = 0; i < nums.length; i++) {
+            int newF = Math.max(f1, f0 + nums[i]);
+            f0 = f1;
+            f1 = newF;
+        }
+        return f1;
+    }
+
+
     public int rob2(int[] nums) {
         if (nums.length == 0) {
             return 0;
@@ -28,9 +41,10 @@ public class HouseRobber {
         return dp[nums.length];
     }
 
+
     private int[] cache = null;
 
-    public int rob(int[] nums) {
+    public int rob3(int[] nums) {
         cache = new int[nums.length];
         Arrays.fill(cache, -1);
         return dfs(nums.length - 1, nums);
@@ -40,7 +54,7 @@ public class HouseRobber {
         if (i < 0) {
             return 0;
         }
-        if (cache[i] != -1){
+        if (cache[i] != -1) {
             return cache[i];
         }
         int result = Math.max(dfs(i - 1, nums), dfs(i - 2, nums) + nums[i]);
