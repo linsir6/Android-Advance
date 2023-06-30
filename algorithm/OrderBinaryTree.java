@@ -117,7 +117,7 @@ public class OrderBinaryTree {
         node2.left = node4;
         node2.right = node5;
 
-        preOrder1(node1);
+        postOrder1(node1);
     }
 
 }
