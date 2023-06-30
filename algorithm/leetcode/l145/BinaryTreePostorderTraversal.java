@@ -1,7 +1,5 @@
 package algorithm.leetcode.l145;
 
-import algorithm.OrderBinaryTree;
-
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Stack;
